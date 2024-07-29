@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @iiTimeless
+- 🌱 I’m currently learning LUA, JavaScript, HTML, CSS, Python and plan to continue learning more. 
+- 📫 How to reach me: Best way to contact me would be on discord. You can join my discord that is linked to my bio.
