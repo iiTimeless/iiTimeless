@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @iiTimeless
-- 🌱 I’m currently learning LUA, JavaScript, HTML, CSS, Python and plan to continue learning more. I am the server director and lead developer of the Fivem community Project:APEX. I am also working on building a game utilizing Unreal Engine.
+- 🌱 I’m currently learning LUA, JavaScript, HTML, CSS, Python, C# and plan to continue learning more. I am the server director and lead developer of the gaming community Project:APEX. I am also working on building a game utilizing Unreal Engine.
 - 📫 How to reach me: Best way to contact me would be on discord. You can join my discord that is linked to my bio.
